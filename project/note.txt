@@ -1,0 +1,3 @@
+使用YOLOv5提供的detect.py進行：
+python detect.py --weights runs/train/exp2/weights/best.pt --source project/images --project project/results --name output --exist-ok
+
