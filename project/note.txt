@@ -9,3 +9,4 @@ git commit -m "Add A.py script"
 
 更新：
 git commit -m "Update A.py with new functionality"
+git commit -m "Update note.txt with new information"
